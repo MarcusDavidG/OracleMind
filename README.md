@@ -1,4 +1,4 @@
-# 🔮 OracleMind - AI Data Oracle & Validation Layer for Somnia
+#  OracleMind - AI Data Oracle & Validation Layer for Somnia
 
 **OracleMind is a foundational infrastructure project for the Somnia AI Hackathon, building a robust and verifiable data oracle specifically designed for on-chain autonomous AI agents.**
 
