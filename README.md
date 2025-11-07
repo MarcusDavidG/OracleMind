@@ -112,7 +112,7 @@ SOMNIA_ORACLE_CONTRACT_ADDRESS=0x94E7b61ACfdDA06c74A8e56Fc55261AF94bda9f6
 
 ## 🎬 Demo Video
 
-[//]: # (TODO: Insert link to your 5-minute demo video here)
+https://www.loom.com/share/c1b2b026a1fc44be8a130e247863b8fd
 
 Deployment : https://oracle-mind-three.vercel.app/
 
